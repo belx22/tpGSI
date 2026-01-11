@@ -30,6 +30,6 @@ des stocks et du personnel.
 
 ## Auteur
 Fotso Teno Herman  
+
 Étudiant en GSI – ISH
-Fotso Teno Herman  
-Étudiant en GSI – ISH
+
